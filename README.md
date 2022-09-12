@@ -14,7 +14,7 @@ The Random Number Generator (RNG) game uses the functional programming paradigm,
 The RNG game basically generates a random number from randint(), then it will ask the user for their guess within 5 attempts.
 Once an response has been provided, the game will compare the generated number with the user's guess. If it's wrong, the game
 will continue to give vauge hints to help guide the user to the answer. If the user does not guess it correctly, the game will
-end and ask if the user woould like to try again.
+end and ask if the user would like to try again.
 
 Small features:
 - When entering your name, you can choose to leave it blank or enter a number.
